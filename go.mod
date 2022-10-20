@@ -1,4 +1,4 @@
-module github.com/heejin-github/umee-exporter
+module github.com/dsrvlabs/umee-exporter
 
 go 1.18
 

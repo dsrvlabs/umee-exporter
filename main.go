@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"flag"
-	"github.com/heejin-github/umee-exporter/rpc"
+	"github.com/dsrvlabs/umee-exporter/rpc"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"net/http"
